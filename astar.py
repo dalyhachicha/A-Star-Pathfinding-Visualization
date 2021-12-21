@@ -1,7 +1,7 @@
 import pygame
 import math
-#local imports
 from queue import PriorityQueue
+#local imports
 from colors import Colors
 from square import Square
 
